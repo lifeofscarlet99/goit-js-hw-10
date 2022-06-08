@@ -19,5 +19,31 @@ body {
   margin-bottom: 16px;
 }
 .country-info__weight {
+  font-weight: 900;
+  margin-right: 10px;
+}
+
+.country-info__name {
+  margin-left: 15px;
+  font-size: 40px;
+}
+.country-info__wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.country-info__capital {
+  margin-bottom: 10px;
+}
+.country-list__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.country-list__flags {
+  margin-right: 15px;
+}
+.country-list__name {
+  font-size: 20px;
   font-weight: 600;
 }
